@@ -1,6 +1,6 @@
 name: super_material
 description: 'Allows easy switching between multiple designs at runtime. Material and cupertino are currently supported.'
-version: 0.0.1
+version: 0.0.2
 repository: 'https://github.com/MarchMore/super_material'
 
 environment:
