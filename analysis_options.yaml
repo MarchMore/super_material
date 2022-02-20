@@ -1,0 +1,24 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    always_specify_types: true
+    prefer_single_quotes: true
+    empty_statements: true
+    avoid_slow_async_io: true
+    cancel_subscriptions: true
+    avoid_void_async: true
+    unawaited_futures: true
+    await_only_futures: true
+    unnecessary_await_in_return: true
+    prefer_function_declarations_over_variables: true
+    prefer_generic_function_type_aliases: true
+    use_function_type_syntax_for_parameters: true
+    avoid_function_literals_in_foreach_calls: true
+    avoid_private_typedef_functions: true
+    one_member_abstracts: true
+    parameter_assignments: true
+    prefer_expression_function_bodies: true
+    prefer_foreach: true
+    always_use_package_imports: true
+    avoid_relative_lib_imports: true
