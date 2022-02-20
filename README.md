@@ -1,7 +1,7 @@
 **super_material** provides component wrappers and useful interfaces to convert existing flutter
 applications into applications that can switch the design at runtime.
 
-That means your app can be represented in different designs, but just one codebase.
+This means your app can display different designs from a single code base.
 
 ## Supported components
 
@@ -90,7 +90,7 @@ class ExampleApp extends SuperApp {
 
 ### Design
 
-With **SuperInstance.restartApp**, the design get switched. This leads to a complete new build trigger of the whole app widget.
+With **SuperInstance.restartApp**, the design gets switched. This leads to a complete new build trigger of the whole app widget.
 
 #### Switch action
 ```dart
