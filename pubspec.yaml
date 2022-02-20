@@ -1,5 +1,5 @@
 name: super_material
-description: 'Package that allows changing application design at runtime.'
+description: 'Allows easy switching between multiple designs at runtime. Material and cupertino are currently supported.'
 version: 0.0.1
 repository: 'https://github.com/MarchMore/super_material'
 
