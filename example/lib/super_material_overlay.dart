@@ -50,8 +50,9 @@ class _SuperMaterialOverlayExampleState
                           ],
                         ),
                         actions: <Widget>[
-                          ElevatedButton(
+                          SuperMaterialDialogAction(
                             child: const Text('Action 1'),
+                            isDestructiveAction: false,
                             onPressed: () => Navigator.pop(context),
                           ),
                           SuperMaterialDialogAction(

@@ -22,3 +22,20 @@ linter:
     prefer_foreach: true
     always_use_package_imports: true
     avoid_relative_lib_imports: true
+    comment_references: true
+    unnecessary_late: true
+    unnecessary_lambdas: true
+    unnecessary_final: true
+    unnecessary_constructor_name: true
+    unnecessary_brace_in_string_interps: true
+    unnecessary_getters_setters: true
+    unnecessary_new: true
+    unnecessary_null_aware_assignments: true
+    unnecessary_null_in_if_null_operators: true
+    unnecessary_overrides: true
+    unnecessary_parenthesis: true
+    unnecessary_raw_strings: true
+    unnecessary_string_escapes: true
+    unnecessary_string_interpolations: true
+    unnecessary_this: true
+    unnecessary_const: true

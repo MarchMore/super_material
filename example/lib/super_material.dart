@@ -50,7 +50,7 @@ class _SuperMaterialExampleState extends State<SuperMaterialExample> {
                           ],
                         ),
                         actions: <Widget>[
-                          SuperMaterialElevatedButton(
+                          SuperMaterialDialogAction(
                             child: const Text('Action 1'),
                             onPressed: () => Navigator.pop(context),
                           ),

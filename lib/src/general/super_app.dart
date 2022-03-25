@@ -29,7 +29,7 @@ class SuperInstance extends StatefulWidget {
       _SuperInstanceState._mode = _SuperInstanceState._standardMode;
     } else {
       _SuperInstanceState._mode =
-          (_superController.initialMode ?? SuperMaterialMode.material);
+          _superController.initialMode ?? SuperMaterialMode.material;
     }
 
     if (_SuperInstanceState._mode == SuperMaterialMode.unknown) {

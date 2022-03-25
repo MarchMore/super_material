@@ -55,7 +55,7 @@ class SuperMaterialAppBar extends CupertinoNavigationBar {
 class SuperMaterialTextField extends CupertinoTextField {
   SuperMaterialTextField({
     Key? key,
-    final InputDecoration? decoration,
+    InputDecoration? decoration,
     TextEditingController? controller,
     int? maxLines = 1,
     bool obscureText = false,
@@ -358,7 +358,7 @@ class SuperMaterialIcon extends Icon {
       return icon;
     }
 
-    final Map<IconData, IconData> _iconMap = <IconData, IconData>{
+    Map<IconData, IconData> _iconMap = <IconData, IconData>{
       Icons.arrow_back: CupertinoIcons.back,
       Icons.refresh: CupertinoIcons.refresh,
       Icons.send: CupertinoIcons.add_circled,
