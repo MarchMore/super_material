@@ -3,6 +3,11 @@ applications into applications that can switch the design at runtime.
 
 This means your app can display different designs from a single code base.
 
+![overview](https://user-images.githubusercontent.com/59848602/160187106-e598a312-57ba-4609-985d-4d7deab42dff.gif)
+
+![material](https://user-images.githubusercontent.com/59848602/160187190-9ae83941-5b90-4e63-8548-1bad0fd0cf10.gif)
+![cupertino](https://user-images.githubusercontent.com/59848602/160187191-4a8ef664-f6ea-4ce7-9e21-888a488999dc.gif)
+
 ## Supported components
 
 ### Widgets
